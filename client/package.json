@@ -24,7 +24,7 @@
         "react-dom": "^16.13.1",
         "react-dropzone": "^11.0.1",
         "react-form": "^4.0.1",
-        "react-image-annotate": "^1.2.7",
+        "react-image-annotate": "^1.8.0",
         "react-image-file": "^0.3.0",
         "react-redux": "^7.2.1",
         "react-router": "^5.2.0",
