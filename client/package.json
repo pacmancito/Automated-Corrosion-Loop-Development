@@ -22,7 +22,7 @@
         "react-bootstrap": "^1.1.1",
         "react-delay-link": "^1.1.4",
         "react-dom": "^16.13.1",
-        "react-dropzone": "^11.0.1",
+        "react-dropzone": "^11.7.1",
         "react-form": "^4.0.1",
         "react-image-annotate": "^1.2.7",
         "react-image-file": "^0.3.0",
